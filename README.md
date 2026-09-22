@@ -1,38 +1,28 @@
 
-<div align="center">
-
 # Jackson Matongo
 
-### Software Developer | Backend · Web · Mobile
+### Full-Stack Software Developer
 
-Building reliable backend systems and modern applications that solve real-world problems.
+I build end-to-end applications, combining high-performance backend services with modern cross-platform UIs for mobile and web.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.domentro.com)
-[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonfmatongo@gmail.com)
+[Portfolio](https://domentro.com) · [Email](mailto:jacksonfmatongo@gmail.com) · [GitHub](https://github.com/jacksonmatongo)
 
-</div>
+---
 
-### About Me
+### 🧰 Tech Stack
+- **Languages:** Python, TypeScript, Kotlin
+- **Backend:** Python, FastAPI, PostgreSQL
+- **Mobile Development:** Kotlin, Jetpack Compose, Compose Multiplatform
+- **Web Development:** React, TypeScript
+- **Tools:** Git, Docker, Linux
 
-I'm a software developer focused on building backend services, web applications, Android, and cross-platform mobile experiences.
+---
 
+### 🚀 Featured Projects
+- **[Domentro](#):** Real estate platform utilizing a FastAPI backend architecture and Compose Multiplatform frontend.
+- **[Project Name](#):** Key feature or accomplishment (e.g., scalable scheduling engine / data pipeline).
 
-### Tech Stack
+---
 
-**Languages:** Python · TypeScript · Kotlin
-
-**Backend:** FastAPI · PostgreSQL · SQLAlchemy
-
-**Frontend:** React · Tailwind CSS
-
-**Mobile:** Kotlin · Compose Multiplatform
-
-**Tools:** Git · GitHub · VS Code · Android Studio
-
-<div align="center">
-
-**Interested in collaborating or discussing a project?**
-
-[Email](mailto:jacksonfmatongo@gmail.com) · [GitHub](https://github.com/jacksonmatongo) · [Portfolio](https://www.domentro.com)
-
-</div>
+### 📊 GitHub Stats
+![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonmatongo&show_icons=true&theme=dark)
