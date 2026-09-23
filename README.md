@@ -1,28 +1,20 @@
+# Jackson Matongo 👋
 
-# Jackson Matongo
+**Software Engineer | Backend, Mobile & AI/ML**
 
-### Full-Stack Software Developer
+I building scalable backend services and cross-platform applications, and integrating AI and machine learning into real-world products.
 
-I build end-to-end applications, combining high-performance backend services with modern cross-platform UIs for mobile and web.
 
-[Portfolio](https://domentro.com) · [Email](mailto:jacksonfmatongo@gmail.com) · [GitHub](https://github.com/jacksonmatongo)
+### 🛠️ Tech Stack
+- **Languages:** Python, Kotlin
+- **Backend:** FastAPI, SQLAlchemy, Pydantic, PostgreSQL
+- **Mobile & Cross-Platform:** Kotlin, Compose Multiplatform
+- **AI / ML:** Python, Machine learning
 
----
+### 🚀 Projects
+- **[Domentro](https://www.domentro.com)** – A real estate platform connecting property seekers, owners, and agents
 
-### 🧰 Tech Stack
-- **Languages:** Python, TypeScript, Kotlin
-- **Backend:** Python, FastAPI, PostgreSQL
-- **Mobile Development:** Kotlin, Jetpack Compose, Compose Multiplatform
-- **Web Development:** React, TypeScript
-- **Tools:** Git, Docker, Linux
+### Connect
 
----
-
-### 🚀 Featured Projects
-- **[Domentro](#):** Real estate platform utilizing a FastAPI backend architecture and Compose Multiplatform frontend.
-- **[Project Name](#):** Key feature or accomplishment (e.g., scalable scheduling engine / data pipeline).
-
----
-
-### 📊 GitHub Stats
-![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonmatongo&show_icons=true&theme=dark)
+🐙 [GitHub](https://github.com/jacksonmatongo)
+📧 [Email](mailto:jacksonfmatongo@gmail.com)
